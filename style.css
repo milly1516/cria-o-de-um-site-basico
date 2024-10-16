@@ -13,7 +13,7 @@ ul {
 }
 
 a{
-    color: aliceblue;
+    color: black;
     text-decoration: none;
 }
 
@@ -21,7 +21,7 @@ img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(255, 0, 119);
+    border: 5px solid #5bbe42;
 }
 
 .center {]
@@ -29,7 +29,7 @@ img {
 }
 
 h1 {
-    color: rgb(255, 0, 140)
+    color: #5bbe42
 }
 
 footer img {
