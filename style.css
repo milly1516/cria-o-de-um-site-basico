@@ -4,12 +4,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-ul {
+ul{
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    align-items: center;
     padding: 16px;
+}
 
 
 a {
@@ -21,7 +21,7 @@ a {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid #5bbe42;
+    border: 5px solid #5bbe42
 }
 
 .center {
@@ -29,7 +29,7 @@ a {
 }
 
 h1 {
-    color: #5bbe42
+    color: #5bbe42;
 }
 
 footer img {
